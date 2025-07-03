@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m Currently building an [Ecommerce Project](https://github.com/rahmath28/e-commerce)
+
 - 📘 Learning **Data Structures and Algorithms (DSA)** to enhance my problem-solving skills
 - 👨‍💻 All of my projects are available at [rahmathportfolio.netlify.app](https://rahmathportfolio.netlify.app/)
 - 💬 Ask me about **anything related to web development!**
